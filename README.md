@@ -170,13 +170,6 @@ If you found this project helpful, please consider giving it a ⭐ on GitHub.
 
 ---
 
-## 👨‍💻 Author
-
-**Govind Devaraj**
-
-GitHub: https://github.com/your-username
-
-LinkedIn: https://www.linkedin.com/in/your-profile
 
 ---
 
